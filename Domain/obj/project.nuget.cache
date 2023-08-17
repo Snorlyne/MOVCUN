@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jow4U3+sb1BdS+3cgfDZx/Ee0du9TQfFGye5GMR3ikaEgrJRpWAF9D8hMkFj1wtf8/uhY7+MAUDc6tsJt3JN1g==",
+  "success": true,
+  "projectFilePath": "C:\\MOVCUN\\MOVCUN\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\liana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\liana\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
